@@ -1,5 +1,5 @@
 # 💫 About Me:
-Digital Dreamer turning Coffe into code
+Digital Dreamer turning Coffee into code!!
 
 
 ## 🌐 Socials:
