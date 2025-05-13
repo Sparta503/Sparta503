@@ -1,5 +1,5 @@
 # 💫 About Me:
-Online web browser
+Digital Dreamer turning Coffe into code
 
 
 ## 🌐 Socials:
