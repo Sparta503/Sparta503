@@ -8,6 +8,7 @@ Digital Dreamer turning Coffee into code!!
   <a href="https://facebook.com/Abel Chomunodisa"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/chomunodisaa68"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://twitch.com/Chomunodisaa68"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+  <a href="https://twitter.com/chomunodisaa68"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
 
 ---
