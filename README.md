@@ -47,6 +47,6 @@ Digital Dreamer turning Coffee into code!!
 ---
 
 ## 💰 Challenge Code
-[![BuyYouACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sparta503)
+[![BuyYouACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
