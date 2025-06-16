@@ -1,6 +1,6 @@
 # 💫 About Me:
-Digital Dreamer turning Coffee into code!!
-Started vibe coding with java at High School
+Digital Dreamer turning Coffee into code!!<br>
+Started vibe coding with java at High School</br>
 
 ---
 
