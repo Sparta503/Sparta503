@@ -34,8 +34,13 @@ Started coding with Java in high school and never stopped building.
 
 ---
 
+## 📈 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sparta503&theme=github-dark)
+
+---
+
 ## 📊 Contributions
-![](https://github-contribution-grid.vercel.app/?username=Sparta503&theme=dark)
+![](https://ghchart.rshah.org/Sparta503)
 
 ---
 
