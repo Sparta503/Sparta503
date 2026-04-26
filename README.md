@@ -36,21 +36,6 @@ Started coding with Java in high school and never stopped building.
 
 ---
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=Sparta503&theme=darkhub&no-frame=true&margin-w=10)
-
----
-
-## 🚀 Featured Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=Sparta503&repo=REPO_NAME_1&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Sparta503&repo=REPO_NAME_2&theme=dark)
-
----
-
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=Sparta503&icon=0&color=0)
-
----
 
 ## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
