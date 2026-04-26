@@ -1,7 +1,47 @@
-# 💫 About Me:
-Digital Dreamer ☕ → turning ideas into scalable code.<br>
-Started coding with Java in high school and never stopped building.
+# 💫About Me:
+Full-Stack Software Engineer & ML Engineer  
+I enjoy blending software engineering, data, and ML to create products that are not just functional, but smart.
 
+---
+
+## 🧰 Software Engineering Stack:
+
+### 💻 Frontend & Mobile
+- React · Next.js · React Native  
+- TypeScript · JavaScript  
+- Modern UI/UX development
+- Flutter
+
+### ⚙️ Backend & APIs
+- Node.js · Express  
+- Django · REST APIs · GraphQL  
+- Microservices architecture  
+- Authentication & system design
+
+### 🗄️ Databases
+- MongoDB · MySQL  
+- PostgreSQL 
+
+### ☁️ DevOps & Infrastructure
+- Docker · CI/CD (GitHub Actions)  
+- AWS (basic–intermediate cloud deployment)   
+- Bash · PowerShell automation  
+
+
+## ⚡ Extra Skills
+- System design & architecture thinking  
+- Performance optimization  
+- Debugging & software testing  
+- Version control (Git/GitHub workflows)  
+- Agile development & collaboration  
+
+---
+
+## 🧭 Focus Areas
+- Scalable full-stack systems  
+- AI-powered applications  
+- Data-driven decision making tools  
+- Clean, maintainable software architecture  
 ---
 
 ## 🌐 Socials:
@@ -51,5 +91,5 @@ Started coding with Java in high school and never stopped building.
 
 ---
 
-## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
+## 💰 Lets Talk
+[![Lets Talk](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
