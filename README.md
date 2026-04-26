@@ -29,19 +29,17 @@ Started coding with Java in high school and never stopped building.
 
 ## 📊 GitHub Activity Overview
 
-### 🔥 Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sparta503&theme=dark&hide_border=true)
 
 ### 📊 Total Contributions & Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sparta503&show_icons=true&theme=dark&hide_border=true)
 
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparta503&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
 ### 📈 Contribution History
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sparta503&theme=github-dark)
-
-## 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sparta503&theme=github-dark)
-
----
+!
 
 ## 📊 Contributions
 ![](https://ghchart.rshah.org/Sparta503)
