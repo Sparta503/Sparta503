@@ -1,50 +1,46 @@
-# 👋 Hey, I'm Abel
-
-💻 Software Developer focused on building scalable web & mobile applications  
-🚀 Passionate about clean UI, performance, and real-world solutions  
-
----
-
-## ⚡ Tech Stack
-- Frontend: React, Next.js, TypeScript  
-- Backend: Django, Node.js  
-- Mobile: React Native  
-- Languages: JavaScript, TypeScript, Java  
+# 💫 About Me:
+Digital Dreamer ☕ → turning ideas into scalable code.<br>
+Started coding with Java in high school and never stopped building.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Project One
-Short description of what it does and why it matters  
-👉 https://github.com/Sparta503/REPO_NAME_1  
-
-### 🔹 Project Two
-Short description of what it does and your role  
-👉 https://github.com/Sparta503/REPO_NAME_2  
+## 🌐 Socials:
+<p align="center">
+<a href="https://facebook.com/Abel Chomunodisa"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+<a href="https://instagram.com/chomunodisaa68"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://twitch.com/Chomunodisaa68"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+<a href="https://twitter.com/chomunodisaa68"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=Sparta503&show_icons=true&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparta503&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🌍 Connect With Me
-- Twitter: https://x.com/chomunodisaa68  
-- LinkedIn: https://linkedin.com/in/abel-chomunodisa-765280270  
-- GitHub: https://github.com/Sparta503  
-
----
-
-## 🧠 Currently
-- Building full-stack apps  
-- Improving system design & scalability  
-- Exploring cloud & DevOps  
+# 💻 Tech Stack:
+<p align="center">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Contact
-📧 https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sparta503&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparta503&theme=dark&hide_border=true&layout=compact&langs_count=6)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sparta503&theme=github-dark)
+
+---
+
+## 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=Sparta503&theme=darkhub&no-frame=true&margin-w=10)
+
+---
+
+
+## 💰 Support Me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
