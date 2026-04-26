@@ -1,38 +1,66 @@
 # 💫About Me:
 Full-Stack Software Engineer & ML Engineer  
-I enjoy blending software engineering, data, and ML to create products that are not just functional, but smart.
+I enjoy blending software engineering, data pipelining, and ML to create products that are not just functional, but smart.
 
 ---
 
-## 🧰 Software Engineering Stack:
+## 🧰 Software Engineering Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Frontend & Mobile
 - React · Next.js · React Native  
 - TypeScript · JavaScript  
-- Modern UI/UX development
-- Flutter
+- Flutter  
+- Modern UI/UX development  
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ Backend & APIs
 - Node.js · Express  
 - Django · REST APIs · GraphQL  
 - Microservices architecture  
-- Authentication & system design
+- Authentication & system design  
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 - MongoDB · MySQL  
-- PostgreSQL 
+- PostgreSQL  
+- Data modeling  
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ☁️ DevOps & Infrastructure
 - Docker · CI/CD (GitHub Actions)  
-- AWS (basic–intermediate cloud deployment)   
+- AWS (basic–intermediate)  
 - Bash · PowerShell automation  
 
+</td>
+</tr>
+</table>
+
+---
 
 ## ⚡ Extra Skills
 - System design & architecture thinking  
 - Performance optimization  
 - Debugging & software testing  
-- Version control (Git/GitHub workflows)  
+- Git/GitHub workflows  
 - Agile development & collaboration  
 
 ---
@@ -40,9 +68,8 @@ I enjoy blending software engineering, data, and ML to create products that are 
 ## 🧭 Focus Areas
 - Scalable full-stack systems  
 - AI-powered applications  
-- Data-driven decision making tools  
-- Clean, maintainable software architecture  
----
+- Data-driven decision tools  
+- Clean, maintainable architecture  
 
 ## 🌐 Socials:
 <p align="center">
