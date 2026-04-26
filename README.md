@@ -32,15 +32,17 @@ Started coding with Java in high school and never stopped building.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparta503&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sparta503&theme=github-dark)
+---
+
+## 📊 Contributions
+![](https://ghchart.rshah.org/Sparta503)
 
 ---
 
 ## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=Sparta503&theme=darkhub&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Sparta503&theme=onedark&no-frame=true&margin-w=15&row=1)
 
 ---
-
 
 ## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-you-a-coffee&logoColor=black)](https://buyyouacoffee.com/Sparta503)
