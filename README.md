@@ -2,11 +2,9 @@
 Full-Stack Software Engineer & ML Engineer  
 I enjoy blending software engineering, data pipelining, and ML to create products that are not just functional, but smart.
 
----
-
 ## 🧰 Software Engineering Stack
 
-<table>
+<table cellpadding="10">
 <tr>
 <td width="50%" valign="top">
 
@@ -32,7 +30,7 @@ I enjoy blending software engineering, data pipelining, and ML to create product
 
 ---
 
-<table>
+<table cellpadding="10">
 <tr>
 <td width="50%" valign="top">
 
@@ -56,20 +54,33 @@ I enjoy blending software engineering, data pipelining, and ML to create product
 
 ---
 
-## ⚡ Extra Skills
+## ⚡ Skills & Focus
+
+<table cellpadding="10">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Extra Skills
 - System design & architecture thinking  
 - Performance optimization  
 - Debugging & software testing  
 - Git/GitHub workflows  
 - Agile development & collaboration  
 
----
+</td>
 
-## 🧭 Focus Areas
+<td width="50%" valign="top">
+
+### 🧭 Focus Areas
 - Scalable full-stack systems  
 - AI-powered applications  
 - Data-driven decision tools  
 - Clean, maintainable architecture  
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Socials:
 <p align="center">
